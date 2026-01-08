@@ -26,7 +26,7 @@ In private messages, the bot explains its functionality.
 ```bash
 git clone https://github.com/USERNAME/telegram-censor-bot.git
 cd telegram-censor-bot
-
+````
 2. Create a file named token.txt in the repository folder and paste your bot token:
 1234567890:ABCdefGhIJKlmNoPQRstuVWXyz123456789
 
