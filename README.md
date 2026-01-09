@@ -1,11 +1,6 @@
 # telegram-bot-moderator
 Telegram bot that automatically deletes messages with undesirable words in groups and notifies the chat with censored versions. Replies with functionality info in private messages.
 
-## Telegram Censor Bot
-
-A Telegram bot that automatically deletes messages containing undesirable words in groups and notifies the chat with censored versions of the words.  
-In private messages, the bot explains its functionality.
-
 ---
 
 ## Features
@@ -24,8 +19,8 @@ In private messages, the bot explains its functionality.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/telegram-censor-bot.git
-cd telegram-censor-bot
+git clone https://github.com/AlexanderNyr/telegram-bot-moderator.git
+cd telegram-bot-moderator
 ````
 2. Create a file named token.txt in the repository folder and paste your bot token:
 1234567890:ABCdefGhIJKlmNoPQRstuVWXyz123456789
